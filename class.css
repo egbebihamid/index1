@@ -1,0 +1,10 @@
+.life{
+      text-align: center;
+      width: 20%;
+      height: 450px;
+      background-color: rgb(239, 239, 248);
+      border-style: solid;
+      border-color: rgb(103, 118, 121);
+      justify-content: space-around;
+      margin-left: 450px;
+    }

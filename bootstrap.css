@@ -1,0 +1,13 @@
+ body
+ .div{
+     width: 490px;
+     height: 265px;
+     text-align: center;
+     padding-top: 80px;
+     background-image: linear-gradient(to left, rgba(77, 71, 71, 0.4), rgba(0,0,0,0.5)), url('../css/images/joseph_avatar.jpg');
+ }
+/* .carousel-inner{
+    width: 400px;
+    text-align: center;
+    margin-left: 500px;
+} */

@@ -1,0 +1,151 @@
+body{
+    background-color: whitesmoke;
+}
+.A{
+    display: flex; 
+    justify-content: space-between;   
+}
+.B{
+    display: flex;
+    width: 500px;
+    /* margin-left: 10px;
+    padding-bottom: 100px; */
+}
+.C{
+    width: 360px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 17px;
+    /* margin-left: 500px;
+    margin-top: 40px; */
+    
+}
+.newdiv{
+    width: 46%;
+}
+.E{
+    background-color: whitesmoke;
+    height: 350px;
+    width: 400px;
+    position: relative;
+    left: 200px; 
+}
+.F{
+   display: flex;
+   /* justify-content: space-between; */
+}
+.H{
+    text-align: center;
+}
+.flex{
+    background-color: black;
+    display: flex;
+    padding-top: 100px;
+    padding-left: 20px;
+}
+.G{
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+.hamid{
+    display: flex;
+    justify-content: space-around;
+    margin-block-end: 6px;
+}
+.hamskid{
+
+   
+}
+.hello{
+    /* margin-block-end: 6px; */
+}
+.reg{
+    margin-left: 10px;
+    margin-block-end: 6px;
+}
+.nm{
+    width: 150px;
+    height: 49px;
+    margin-block-end: 6px;
+}
+
+.ni{
+    width: 350px;
+    height: 49px;
+    margin-block-end: 6px;
+}
+.nii{
+    margin-block-end: 6px;
+}
+.no{
+    width: 358px;
+    height: 30px;    
+}
+.avatar{
+    margin-left: 170px;
+    border-radius: 50%;
+    height: 90px;
+}
+.pe2{
+    margin-left: 170px;
+    border-radius: 50%;
+    height: 90px;
+}
+.overall{
+    display: flex;
+    justify-content: space-around;
+}
+.D{
+    position: relative;
+    text-align: center;
+}
+.ri{
+    border-radius: 50%;
+    height: 90px;
+}
+.rilwan{
+    text-align: center;
+}
+.lol{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.learn{
+    margin-left: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30pt;
+}
+.div1{
+    border-radius: 10pt;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.div2{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+ /* @media (max-width: 768px) {
+    .A{
+        width: 700px;
+        height: 100px;
+    }
+     .flex{
+        width: 900px;
+        height: 1000px;
+    }
+    .E{
+        background-color: brown;
+        margin-top: 600px;
+    }
+}
+
+@media (max-width: 425px){
+
+} */

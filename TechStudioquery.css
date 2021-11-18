@@ -1,0 +1,38 @@
+@media (min-width:320px)  { 
+    .A{
+        width: 700px;
+        height: 100px;
+    }
+    .flex{
+        width: 900px;
+        height: 900px;
+    }
+    .E{
+        margin-top: 500px; 
+        position:absolute !important;
+        right: 900px;
+    }
+    .joseph{
+         text-align: center;
+    }
+ }
+@media (min-width:480px)  { 
+        /* .A{
+            width: 900px;
+            height: 100px;
+        }
+        .flex{
+            width: 1000px;
+            height: 900px;
+        }
+        .E{
+            margin-right: 500px;
+        }
+        .joseph{
+            text-align: center;
+        } */
+ }
+@media (min-width:600px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ }
+@media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }

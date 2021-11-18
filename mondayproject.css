@@ -1,0 +1,29 @@
+body
+
+.pes{
+    background-image:url(../HTML/images/football.jpeg) ;
+    /* width: 1700px;
+    height: 300px; */
+    background-repeat: no-repeat ;
+    background-size: cover;
+    position: relative;
+}
+.fire{
+    background-color: tomato;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+#fire_id{
+  background-color: firebrick;
+}
+#fire_id{
+  background-color: goldenrod;
+}
+.container{
+  background-color: aqua;
+  display: flex;
+  justify-content: space-around;
+}
+
+

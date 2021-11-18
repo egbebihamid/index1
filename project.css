@@ -1,0 +1,44 @@
+body
+.lol{
+    display: inline-flex;
+    height: 300px;
+    background-color: rgb(143, 182, 182);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.lol2{
+    margin-left: 100px;
+    float: inline;
+}
+
+
+
+
+
+
+
+
+
+
+.grandmother{
+    background-color: burlywood;
+    height: 600px;
+    width: 1000px;
+    display: grid;
+    grid-template-areas: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: ;
+}
+.num{
+    width: 240px;
+    height: 100px;
+    text-align: center;
+    padding-top: 45px;
+    background-color: cyan;
+    margin-block-end: 10px;
+    border: black 2px solid;
+}

@@ -1,0 +1,119 @@
+.body{
+    background-color: rgb(231, 17, 17);
+}
+.fire{
+    background-color: tomato;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+#fire_id{
+  background-color: firebrick;
+}
+#fire_id{
+  background-color: goldenrod;
+}
+.container{
+  background-color: aqua;
+  display: flex;
+  justify-content: space-around;
+}
+.good{ 
+      width: 40%;
+      height: 240px;
+      background-color: blue;
+      border-style: solid;
+      border-color: rgb(117, 197, 211);
+      justify-content: space-around;
+      text-align: center;
+      float: right;
+    }
+
+.good2{
+       width: 40%;
+       height: 240px;
+       background-color: brown;
+       border:dotted
+       border-color: burlywood
+       text-align:center;
+
+    }
+    
+.milk{
+    background-color: tomato;
+    height: 50px;
+}
+
+.mc{
+    background-color: black;
+    color: white;
+    width: 81px;
+    display: inline;
+}
+
+#mc_id{
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* <style>
+       table,th,td{
+          border: 2px solid;}
+
+</style> */ */
+
+.frm{
+    backgroundcolor: crimson;
+     width: 380px;
+    height: 150px;
+}
+
+.input1{
+width: 300px;
+}
+.input1{
+    width: 232;
+}
+.bt{
+    width: 310px;
+    background-color: rgb(56, 84, 175) ;
+    color: whitesmoke}
+
+.but{
+padding-left: 100px;
+
+}
+
+.go{
+padding-left:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
